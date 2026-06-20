@@ -1,21 +1,23 @@
-## Olá! Eu sou Kauan Mezavila
+## Kauan Mezavila
 
-💻 Desenvolvedor Python e Web
-🌱 Estudando FastAPI, PostgreSQL e C
-🚀 Buscando oportunidades de estágio
+Me chamo Kauan e tenho 16 anos, possuo altos conhecimentos em Python e pacote Web completo (HTML 5, CSS, JavaScript e etc; conceitos, fundamentos e etc), sistemas operacionas (Windows e Linux) além de ter inglês avaçado (leitura, escrita e conversação simples).
 
-## Tecnologias
-- Python
-- HTML/CSS/JavaScript
-- FastAPI
-- PostgreSQL
-- Git e Github
-- Linux e Windows
-- Render
+Meus projetos vão desde recriar sistema operacionais simples até divulgar sites e SaaS que resolvam problemas reais.
+
+---
+
+## Tech Stack
+
+[![Skills](https://skillicons.dev/icons?i=py,html,css,js,c,mysql,git,github,linux,windows)](https://skillicons.dev)
+
+---
 
 ## Projetos
-- AlertaBR
-- BCBS-NetHunter
-- ChatPDC
-- IP-Tracker
-- PyPipeLine
+
+| Project | Description |
+|---|---|
+| [AlertaBR](https://github.com/kauanmezavila/AlertaBR) | Site de rastreio metereológico com alertas |
+| [BCBS-NetHunter](https://github.com/kauanmezavila/BCBS-NetHunter) | Clone do Kali NetHunter para Termux |
+| [ChatPDC](https://github.com/kauanmezavila/ChatPDC) | Um agente de IA "burro", possui uma versão web |
+| [pypipeline](https://github.com/kauanmezavila/pypipeline) | Uma pipeline completa de compressão e transferência de arquivos local |
+| [IP-Tracker](https://github.com/kauanmezavila/IP-Tracker) | Rastreador de IPs simples |
