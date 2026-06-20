@@ -1,16 +1,21 @@
-## Hi there 👋
+## Olá! Eu sou Kauan Mezavila
 
-<!--
-**kauanmezavila/kauanmezavila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Python e Web
+🌱 Estudando FastAPI, PostgreSQL e C
+🚀 Buscando oportunidades de estágio
 
-Here are some ideas to get you started:
+## Tecnologias
+- Python
+- HTML/CSS/JavaScript
+- FastAPI
+- PostgreSQL
+- Git e Github
+- Linux e Windows
+- Render
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+- AlertaBR
+- BCBS-NetHunter
+- ChatPDC
+- IP-Tracker
+- PyPipeLine
