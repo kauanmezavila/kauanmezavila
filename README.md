@@ -8,7 +8,17 @@ Meus projetos vão desde recriar sistema operacionais simples até divulgar site
 
 ## Tech Stack
 
-[![Skills](https://skillicons.dev/icons?i=py,html,css,js,c,mysql,git,github,linux,windows)](https://skillicons.dev)
+Linguagens
+
+[![Skills](https://skillicons.dev/icons?i=py,html,css,js,c,mysql,md)](https://skillicons.dev)
+
+Ferramentas
+
+[![Skills](https://skillicons.dev/icons?i=git,github,githubactions,vercel,supabase,vscode,bash,gmail,)](https://skillicons.dev)
+
+Sistemas Operacionais
+
+[![Skills](https://skillicons.dev/icons?i=linux,mint,kali,windows)](https://skillicons.dev)
 
 ---
 
