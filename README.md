@@ -30,7 +30,11 @@ Meus projetos vão desde a recriação de sistemas operacionais simplificados pa
 ## Projeto em Desenvolvimento
 
 <!-- LAST_REPO_START -->
-Aguardando atualização automática...
+
+### 🚀 [kauanmezavila/kauanmezavila](https://github.com/kauanmezavila/kauanmezavila)
+
+Último repositório que recebeu um commit.
+
 <!-- LAST_REPO_END -->
 
 ---
