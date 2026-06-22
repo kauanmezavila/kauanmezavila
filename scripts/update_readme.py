@@ -15,9 +15,9 @@ last_push = next(
 repo = last_push["repo"]["name"]
 
 content = f"""
-### 🚀 [{repo}](https://github.com/{repo})
+Atualmente estou trabalhando em:
 
-Último repositório que recebeu um commit.
+### 🚀 [{repo}](https://github.com/{repo})
 """
 
 readme = Path("README.md").read_text(encoding="utf-8")
