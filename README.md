@@ -31,3 +31,5 @@ Sistemas Operacionais
 | [ChatPDC](https://github.com/kauanmezavila/ChatPDC) | Um agente de IA "burro", possui uma versão web |
 | [pypipeline](https://github.com/kauanmezavila/pypipeline) | Uma pipeline completa de compressão e transferência de arquivos local |
 | [IP-Tracker](https://github.com/kauanmezavila/IP-Tracker) | Rastreador de IPs simples |
+| [my-first-vm](https://github.com/kauanmezavila/my-first-vm) | Máquina virtual simulada com foco em aprendizado |
+
