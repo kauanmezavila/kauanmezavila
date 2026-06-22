@@ -31,9 +31,9 @@ Meus projetos vão desde a recriação de sistemas operacionais simplificados pa
 
 <!-- LAST_REPO_START -->
 
-### 🚀 [kauanmezavila/kauanmezavila](https://github.com/kauanmezavila/kauanmezavila)
+Atualmente estou trabalhando em:
 
-Último repositório que recebeu um commit.
+### 🚀 [kauanmezavila/kauanmezavila](https://github.com/kauanmezavila/kauanmezavila)
 
 <!-- LAST_REPO_END -->
 
