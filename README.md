@@ -45,7 +45,7 @@ Atualmente estou trabalhando em:
 |----------|------------|
 | [AlertaBR](https://github.com/kauanmezavila/AlertaBR) | Plataforma de monitoramento meteorológico com alertas |
 | [BCBS-NetHunter](https://github.com/kauanmezavila/BCBS-NetHunter) | Implementação inspirada no Kali NetHunter para Termux |
-| [ChatPDC](https://github.com/kauanmezavila/ChatPDC) | Agente de IA simples com interface web |
+| [chatpdc-web](https://github.com/kauanmezavila/chatpdc-web) | Agente de IA simples com interface web |
 | [pypipeline](https://github.com/kauanmezavila/pypipeline) | Pipeline para compressão e transferência local de arquivos |
 | [IP-Tracker](https://github.com/kauanmezavila/IP-Tracker) | Rastreador simples de endereços IP |
 | [my-first-vm](https://github.com/kauanmezavila/my-first-vm) | Máquina virtual simulada com foco educacional |
