@@ -33,7 +33,7 @@ Meus projetos vão desde a recriação de sistemas operacionais simplificados pa
 
 Atualmente estou trabalhando em:
 
-### 🚀 [kauanmezavila/my-first-vm](https://github.com/kauanmezavila/my-first-vm)
+### 🚀 [kauanmezavila/kauanmezavila](https://github.com/kauanmezavila/kauanmezavila)
 
 <!-- LAST_REPO_END -->
 
