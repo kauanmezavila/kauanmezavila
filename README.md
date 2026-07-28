@@ -1,6 +1,6 @@
 # Kauan Mezavila
 
-Olá! Me chamo Kauan, tenho 16 anos e possuo conhecimento sólido em Python, desenvolvimento web (HTML, CSS, JavaScript e seus fundamentos), sistemas operacionais Windows e Linux, além de inglês avançado para leitura, escrita e conversação.
+Olá! Me chamo Kauan, possuo conhecimento sólido em Python, desenvolvimento web (HTML, CSS, JavaScript e seus fundamentos), sistemas operacionais Windows e Linux, além de inglês avançado para leitura, escrita e conversação.
 
 Meus projetos vão desde a recriação de sistemas operacionais simplificados para fins educacionais até o desenvolvimento de sites e SaaS voltados para resolver problemas reais.
 
