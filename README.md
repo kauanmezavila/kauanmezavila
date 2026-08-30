@@ -21,11 +21,7 @@ Meus projetos vão desde a recriação de sistemas operacionais simplificados pa
 [![Skills](https://skillicons.dev/icons?i=linux,mint,kali,windows)](https://skillicons.dev)
 
 ---
-## Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kauanmezavila&show_icons=true)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauanmezavila&layout=compact)
-
----
 
 ## Projeto em Desenvolvimento
 
