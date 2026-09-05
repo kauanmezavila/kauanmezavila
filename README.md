@@ -29,7 +29,7 @@ Meus projetos vão desde a recriação de sistemas operacionais simplificados pa
 
 Atualmente estou trabalhando em:
 
-### 🚀 [kauanmezavila/harbor](https://github.com/kauanmezavila/harbor)
+### 🚀 [kauanmezavila/kauanmezavila](https://github.com/kauanmezavila/kauanmezavila)
 
 <!-- LAST_REPO_END -->
 
