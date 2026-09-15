@@ -1,61 +1,275 @@
 # Kauan Mezavila
 
-> **Software Engineer in progress · Systems · Backend · Research & Build**
+> **Software Engineer in Progress · Backend · Systems · AI · Research & Build**
 
-Olá! Eu sou **Kauan Mezavila**, desenvolvedor e entusiasta de tecnologia com foco em **engenharia de software, backend, sistemas e desenvolvimento de produtos**.
+I'm **Kauan Mezavila**, a software engineer in progress focused on understanding, designing, and building software systems from the ground up.
 
-Gosto de entender como as coisas funcionam por baixo do capô — desde aplicações web e APIs até sistemas operacionais, máquinas virtuais e ferramentas de infraestrutura.
+My interests sit at the intersection of **backend engineering, systems programming, infrastructure, artificial intelligence, developer tooling, and software architecture**.
 
-Atualmente estou aprofundando meus conhecimentos em **JavaScript, TypeScript, Node.js, React e arquitetura backend**, enquanto continuo explorando Python, Linux e desenvolvimento de sistemas.
+I don't want to simply learn frameworks.
+
+I want to understand **what happens underneath them** — how requests move through a system, how APIs communicate, how data is structured and persisted, how runtimes execute code, how operating systems interact with software, and how complex systems can be designed to remain reliable as they grow.
+
+Currently deepening my knowledge of **JavaScript, TypeScript, Node.js, React, backend architecture, APIs, databases, Linux, and systems development**, while continuously experimenting with Python, C, AI, automation, and infrastructure.
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Technology Stack
 
-### Linguagens
+### Languages
 
-[![Skills](https://skillicons.dev/icons?i=py,html,css,js,ts,c,mysql,md)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=py,js,ts,c,html,css,mysql,md)](https://skillicons.dev)
 
 ### Backend & Web
 
-[![Skills](https://skillicons.dev/icons?i=nodejs,express,react,nextjs,fastapi)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,react,nextjs)](https://skillicons.dev)
 
-### Ferramentas & Infraestrutura
+### Infrastructure & Tooling
 
-[![Skills](https://skillicons.dev/icons?i=git,github,githubactions,vercel,supabase,vscode,bash,docker)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=linux,bash,docker,git,github,githubactions,vercel,supabase,vscode)](https://skillicons.dev)
 
-### Sistemas Operacionais
+### Environments
 
 [![Skills](https://skillicons.dev/icons?i=linux,mint,kali,windows)](https://skillicons.dev)
 
 ---
 
-## 🚀 Projeto em Desenvolvimento
+# 🧠 What I'm Interested In
 
-<!-- LAST_REPO_START -->
+```text
+SOFTWARE ENGINEERING
+├── Backend Architecture
+├── APIs
+├── Databases
+├── Authentication
+├── Distributed Systems
+└── System Design
 
-Atualmente estou trabalhando em:
+SYSTEMS
+├── Linux
+├── Operating Systems
+├── Virtual Machines
+├── CLI Applications
+├── Runtime Architecture
+└── Infrastructure
 
-### 🚀 [kauanmezavila/kauanmezavila](https://github.com/kauanmezavila/kauanmezavila)
+AI & AUTOMATION
+├── AI Agents
+├── LLM Applications
+├── Automation
+├── AI Infrastructure
+└── Developer Tools
 
-<!-- LAST_REPO_END -->
+WEB
+├── JavaScript / TypeScript
+├── Node.js
+├── React
+├── Next.js
+└── SaaS Architecture
+
+RESEARCH
+├── Experimental Systems
+├── Software Architecture
+├── Reverse Engineering
+├── Performance
+└── Engineering Experiments
+```
 
 ---
 
-## 🏗️ Projetos
+# 🏗️ Projects
 
-| Projeto                                                           | Descrição                                                          |
-| ----------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [Harbor](https://github.com/kauanmezavila/harbor)                 | Sistema de empacotamento e compatibilidade de código               |
-| [BCBS-NetHunter](https://github.com/kauanmezavila/BCBS-NetHunter) | Implementação experimental inspirada no Kali NetHunter para Termux |
-| [chatpdc-web](https://github.com/kauanmezavila/chatpdc-web)       | Agente de IA simples com interface web                             |
-| [pypipeline](https://github.com/kauanmezavila/pypipeline)         | Pipeline para compressão e transferência local de arquivos         |
-| [IP-Tracker](https://github.com/kauanmezavila/IP-Tracker)         | Rastreador simples de endereços IP                                 |
-| [my-first-vm](https://github.com/kauanmezavila/my-first-vm)       | Máquina virtual simulada com foco educacional                      |
+Some of the systems and experiments I've built or worked on:
+
+| Project                                                           | Description                                                      |
+| ----------------------------------------------------------------- | ---------------------------------------------------------------- |
+| [Harbor](https://github.com/kauanmezavila/harbor)                 | Experimental system focused on code packaging and compatibility  |
+| [BCBS-NetHunter](https://github.com/kauanmezavila/BCBS-NetHunter) | Experimental mobile/Linux environment inspired by Kali NetHunter |
+| [chatpdc-web](https://github.com/kauanmezavila/chatpdc-web)       | AI agent platform with a web interface and backend               |
+| [pypipeline](https://github.com/kauanmezavila/pypipeline)         | Local pipeline for file compression and transfer                 |
+| [my-first-vm](https://github.com/kauanmezavila/my-first-vm)       | Educational virtual machine experiment                           |
+| [IP-Tracker](https://github.com/kauanmezavila/IP-Tracker)         | Networking and IP-address experimentation                        |
+
+> Most of my projects are experiments designed to answer a question, explore a system, or turn an idea into something executable.
 
 ---
 
-## 📊 GitHub Stats
+# 🔬 KML Research
+
+**KML Research** is my personal engineering laboratory.
+
+The idea is simple:
+
+```text
+        QUESTION
+           │
+           ▼
+       RESEARCH
+           │
+     ┌─────┴─────┐
+     │           │
+  THEORY      EXPERIMENT
+     │           │
+     └─────┬─────┘
+           ▼
+         BUILD
+           │
+           ▼
+         TEST
+           │
+           ▼
+        ITERATE
+           │
+           ▼
+        EVOLVE
+```
+
+I use projects as a way to investigate how technology actually works.
+
+Sometimes that means building an API.
+
+Sometimes a CLI.
+
+Sometimes a virtual machine.
+
+Sometimes an AI system.
+
+Sometimes something that breaks spectacularly.
+
+That's part of the process.
+
+### Research Areas
+
+* Systems Engineering
+* Backend Architecture
+* Artificial Intelligence
+* Automation
+* Infrastructure
+* Developer Tooling
+* Linux & Open Source
+* Software Architecture
+* Experimental Computing
+
+---
+
+# 🧩 Engineering Philosophy
+
+> **Don't just use technology. Understand it.**
+
+Frameworks change.
+
+Libraries change.
+
+Languages evolve.
+
+Fundamentals remain.
+
+My goal is to build a strong understanding of the underlying concepts that make modern software possible — while using modern tools to turn that knowledge into real systems.
+
+I believe the best way to learn engineering is to **build things that are slightly beyond your current understanding**.
+
+Break them.
+
+Debug them.
+
+Read the source.
+
+Find out why they broke.
+
+Fix them.
+
+Then build something harder.
+
+---
+
+# 🚧 Current Focus
+
+Right now, I'm focused on becoming capable of designing and implementing **complete backend systems**, rather than simply writing isolated pieces of code.
+
+```text
+JavaScript / TypeScript
+████████████████░░░░
+
+Node.js / Backend
+██████████████░░░░░░
+
+APIs & System Design
+████████████░░░░░░░░
+
+React / Web
+███████████░░░░░░░░░
+
+Software Architecture
+███████████░░░░░░░░░
+
+Systems
+██████████░░░░░░░░░░
+
+AI Engineering
+█████████░░░░░░░░░░░
+```
+
+### Current learning path
+
+```text
+JavaScript
+    ↓
+TypeScript
+    ↓
+Node.js
+    ↓
+HTTP / APIs
+    ↓
+Databases
+    ↓
+Authentication
+    ↓
+Architecture
+    ↓
+Testing
+    ↓
+Deployment
+    ↓
+Distributed Systems
+```
+
+The objective is not to collect technologies.
+
+The objective is to understand **how to design, build, deploy, debug, and evolve real software systems.**
+
+---
+
+# 🧪 Experimental Mindset
+
+I enjoy working on projects where the answer isn't obvious.
+
+```text
+"What if...?"
+      │
+      ▼
+    Build
+      │
+      ▼
+   Observe
+      │
+      ▼
+   Analyze
+      │
+      ▼
+   Improve
+      │
+      └──────────► Repeat
+```
+
+Experiments are not always successful.
+
+That's intentional.
+
+A failed experiment can still produce useful knowledge.
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -67,7 +281,7 @@ Atualmente estou trabalhando em:
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <div align="center">
 
@@ -77,7 +291,7 @@ Atualmente estou trabalhando em:
 
 ---
 
-## 📈 Activity
+# 📈 Activity
 
 <div align="center">
 
@@ -87,102 +301,56 @@ Atualmente estou trabalhando em:
 
 ---
 
-## 🧠 Áreas de Interesse
+# 🚀 What's Next?
+
+I'm building toward a broader engineering skillset around:
 
 ```text
-Backend Engineering
-├── APIs
-├── Architecture
-├── Databases
-├── Authentication
-└── Distributed Systems
-
-Systems
-├── Linux
-├── Operating Systems
-├── Virtual Machines
-├── CLI Tools
-└── Infrastructure
-
-Web
-├── JavaScript / TypeScript
-├── React
-├── Node.js
-└── SaaS
-
-Research
-├── AI
-├── Automation
-├── Software Architecture
-└── Experimental Systems
-```
-
----
-
-## 📚 Current Learning
-
-```text
-JavaScript / TypeScript
-████████████████░░░░
-
-Node.js / Backend
-██████████████░░░░░░
-
-React
-███████████░░░░░░░░░
-
-Software Architecture
-███████████░░░░░░░░░
-
-Systems
-██████████░░░░░░░░░░
-```
-
-Meu objetivo não é apenas aprender frameworks, mas entender os **fundamentos necessários para construir sistemas completos**.
-
----
-
-## 🧪 KML Research
-
-Projetos experimentais fazem parte da minha forma de aprender.
-
-```text
-RESEARCH
+Backend
    │
-   ├── Systems
-   ├── Software
-   ├── AI
-   ├── Infrastructure
-   └── Automation
+   ├── APIs
+   ├── Databases
+   ├── Authentication
+   ├── Performance
+   └── Architecture
           │
           ▼
-        BUILD
+       Systems
           │
-          ▼
-       EVOLVE
+          ├── Linux
+          ├── Networking
+          ├── Runtime Internals
+          └── Infrastructure
+                 │
+                 ▼
+                AI
+                 │
+                 ├── Agents
+                 ├── Automation
+                 ├── LLM Systems
+                 └── AI Infrastructure
+                        │
+                        ▼
+                    PRODUCTS
 ```
 
----
+The long-term goal is to become the kind of engineer capable of going from:
 
-## 💭 Philosophy
-
-> **Don't just use technology. Understand it.**
-
-Gosto de construir projetos do zero, quebrar coisas, descobrir por que quebraram e reconstruí-las melhor.
-
-> **Research. Build. Evolve.**
+**idea → architecture → implementation → infrastructure → product.**
 
 ---
 
-## 📫 Contact
+# 📫 Connect
 
 * **GitHub:** [@kauanmezavila](https://github.com/kauanmezavila)
-* **LinkedIn:** [Kauan Mezavila](https://www.linkedin.com/)
+* **LinkedIn:** [Kauan Mezavila](https://www.linkedin.com/kauanmezavila)
 
 ---
 
 <div align="center">
 
 ### `Research. Build. Evolve.`
+
+**Understanding systems. Building software. Exploring what comes next.**
 
 </div>
