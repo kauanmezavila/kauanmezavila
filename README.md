@@ -343,7 +343,7 @@ The long-term goal is to become the kind of engineer capable of going from:
 # 📫 Connect
 
 * **GitHub:** [@kauanmezavila](https://github.com/kauanmezavila)
-* **LinkedIn:** [Kauan Mezavila](https://www.linkedin.com/kauanmezavila)
+* **LinkedIn:** [Kauan Mezavila](https://www.linkedin.com/in/kauanmezavila)
 
 ---
 
