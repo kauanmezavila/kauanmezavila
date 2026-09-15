@@ -36,9 +36,7 @@ Atualmente estou aprofundando meus conhecimentos em **JavaScript, TypeScript, No
 
 Atualmente estou trabalhando em:
 
-### [uv](https://github.com/harborrepo/uv)
-
-Sistema em desenvolvimento dentro do ecossistema Harbor, explorando empacotamento, execução e compatibilidade de software.
+### 🚀 [kauanmezavila/kauanmezavila](https://github.com/kauanmezavila/kauanmezavila)
 
 <!-- LAST_REPO_END -->
 
