@@ -2,48 +2,39 @@
 
 > **Software Engineer in progress · Systems · Backend · Research & Build**
 
-Olá! Eu sou **Kauan Mezavila**, desenvolvedor com foco em **engenharia de software, backend, sistemas e desenvolvimento de produtos**.
+Olá! Eu sou **Kauan Mezavila**, desenvolvedor e entusiasta de tecnologia com foco em **engenharia de software, backend, sistemas e desenvolvimento de produtos**.
 
 Gosto de entender como as coisas funcionam por baixo do capô — desde aplicações web e APIs até sistemas operacionais, máquinas virtuais e ferramentas de infraestrutura.
 
-Atualmente estou aprofundando meus conhecimentos em **JavaScript, TypeScript, Node.js, React e arquitetura backend**, enquanto continuo explorando Python, Linux, Web development e desenvolvimento de sistemas.
-
-### O que eu construo
-
-* 🧠 Ferramentas e sistemas para resolver problemas reais
-* ⚙️ APIs, backends e automações
-* 🌐 Aplicações web e SaaS
-* 🐧 Ferramentas para Linux e sistemas operacionais
-* 🔬 Projetos experimentais de software e infraestrutura
-* 📦 Ferramentas de desenvolvimento e gerenciamento de projetos
-
-> **Research. Build. Evolve.**
+Atualmente estou aprofundando meus conhecimentos em **JavaScript, TypeScript, Node.js, React e arquitetura backend**, enquanto continuo explorando Python, Linux e desenvolvimento de sistemas.
 
 ---
 
 ## ⚡ Tech Stack
 
-### Languages
+### Linguagens
 
-[![Languages](https://skillicons.dev/icons?i=py,js,ts,c,html,css,mysql,md)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=py,html,css,js,ts,c,mysql,md)](https://skillicons.dev)
 
 ### Backend & Web
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,react,nextjs,fastapi)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,react,nextjs,fastapi)](https://skillicons.dev)
 
-### Tools & Infrastructure
+### Ferramentas & Infraestrutura
 
-[![Tools](https://skillicons.dev/icons?i=git,github,githubactions,bash,docker,vercel,supabase,vscode)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=git,github,githubactions,vercel,supabase,vscode,bash,docker)](https://skillicons.dev)
 
-### Operating Systems
+### Sistemas Operacionais
 
-[![Operating Systems](https://skillicons.dev/icons?i=linux,mint,kali,windows)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=linux,mint,kali,windows)](https://skillicons.dev)
 
 ---
 
-## 🚀 Currently Building
+## 🚀 Projeto em Desenvolvimento
 
 <!-- LAST_REPO_START -->
+
+Atualmente estou trabalhando em:
 
 ### [uv](https://github.com/harborrepo/uv)
 
@@ -53,20 +44,52 @@ Sistema em desenvolvimento dentro do ecossistema Harbor, explorando empacotament
 
 ---
 
-## 🧪 Selected Projects
+## 🏗️ Projetos
 
-| Project                                                               | Description                                                               |
-| --------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| **[Harbor](https://github.com/kauanmezavila/harbor)**                 | Sistema de empacotamento e compatibilidade de código                      |
-| **[BCBS-NetHunter](https://github.com/kauanmezavila/BCBS-NetHunter)** | Implementação experimental inspirada no Kali NetHunter para Termux        |
-| **[chatpdc-web](https://github.com/kauanmezavila/chatpdc-web)**       | Agente de IA com interface web e backend próprio                          |
-| **[pypipeline](https://github.com/kauanmezavila/pypipeline)**         | Pipeline para compressão e transferência local de arquivos                |
-| **[IP-Tracker](https://github.com/kauanmezavila/IP-Tracker)**         | Ferramenta experimental para análise e rastreamento de endereços IP       |
-| **[my-first-vm](https://github.com/kauanmezavila/my-first-vm)**       | Máquina virtual simulada desenvolvida para explorar conceitos de sistemas |
+| Projeto                                                           | Descrição                                                          |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Harbor](https://github.com/kauanmezavila/harbor)                 | Sistema de empacotamento e compatibilidade de código               |
+| [BCBS-NetHunter](https://github.com/kauanmezavila/BCBS-NetHunter) | Implementação experimental inspirada no Kali NetHunter para Termux |
+| [chatpdc-web](https://github.com/kauanmezavila/chatpdc-web)       | Agente de IA simples com interface web                             |
+| [pypipeline](https://github.com/kauanmezavila/pypipeline)         | Pipeline para compressão e transferência local de arquivos         |
+| [IP-Tracker](https://github.com/kauanmezavila/IP-Tracker)         | Rastreador simples de endereços IP                                 |
+| [my-first-vm](https://github.com/kauanmezavila/my-first-vm)       | Máquina virtual simulada com foco educacional                      |
 
 ---
 
-## 🏗️ Areas of Interest
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauanmezavila&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanmezavila&layout=compact&theme=github_dark"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kauanmezavila\&theme=github-dark-blue\&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📈 Activity
+
+<div align="center">
+
+![Kauan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kauanmezavila\&theme=github-compact\&hide_border=true)
+
+</div>
+
+---
+
+## 🧠 Áreas de Interesse
 
 ```text
 Backend Engineering
@@ -98,28 +121,58 @@ Research
 
 ---
 
-## 📈 Current Learning
+## 📚 Current Learning
 
 ```text
-JavaScript        ████████████████░░░░
-TypeScript        ██████████████░░░░░░
-Node.js           ████████████░░░░░░░░
-React             ██████████░░░░░░░░░░
-Backend           ████████████░░░░░░░░
-Systems           ███████████░░░░░░░░░
+JavaScript / TypeScript
+████████████████░░░░
+
+Node.js / Backend
+██████████████░░░░░░
+
+React
+███████████░░░░░░░░░
+
+Software Architecture
+███████████░░░░░░░░░
+
+Systems
+██████████░░░░░░░░░░
 ```
 
-Meu objetivo não é apenas aprender frameworks, mas entender os **fundamentos que permitem construir sistemas completos**.
+Meu objetivo não é apenas aprender frameworks, mas entender os **fundamentos necessários para construir sistemas completos**.
 
 ---
 
-## 🧠 Philosophy
+## 🧪 KML Research
+
+Projetos experimentais fazem parte da minha forma de aprender.
+
+```text
+RESEARCH
+   │
+   ├── Systems
+   ├── Software
+   ├── AI
+   ├── Infrastructure
+   └── Automation
+          │
+          ▼
+        BUILD
+          │
+          ▼
+       EVOLVE
+```
+
+---
+
+## 💭 Philosophy
 
 > **Don't just use technology. Understand it.**
 
 Gosto de construir projetos do zero, quebrar coisas, descobrir por que quebraram e reconstruí-las melhor.
 
-Acredito que projetos experimentais são uma das melhores formas de transformar conhecimento teórico em experiência prática.
+> **Research. Build. Evolve.**
 
 ---
 
@@ -127,7 +180,6 @@ Acredito que projetos experimentais são uma das melhores formas de transformar 
 
 * **GitHub:** [@kauanmezavila](https://github.com/kauanmezavila)
 * **LinkedIn:** [Kauan Mezavila](https://www.linkedin.com/)
-* **Email:** disponível no meu perfil
 
 ---
 
