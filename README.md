@@ -26,7 +26,7 @@ Currently deepening my knowledge of **JavaScript, TypeScript, Node.js, React, ba
 
 ### Infrastructure & Tooling
 
-[![Skills](https://skillicons.dev/icons?i=linux,bash,docker,git,github,githubactions,vercel,supabase,vscode,pnpm)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=linux,bash,docker,git,github,githubactions,vercel,supabase,vscode,pnpm,npm)](https://skillicons.dev)
 
 ### Environments
 
