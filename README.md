@@ -18,7 +18,7 @@ Currently deepening my knowledge of **JavaScript, TypeScript, Node.js, React, ba
 
 ### Languages
 
-[![Skills](https://skillicons.dev/icons?i=py,js,ts,c,html,css,mysql,md)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=py,js,ts,c,html,css,mysql,sqlite,postgresql,md)](https://skillicons.dev)
 
 ### Backend & Web
 
