@@ -85,7 +85,7 @@ Some of the systems and experiments I've built or worked on:
 | ----------------------------------------------------------------- | ---------------------------------------------------------------- |
 | [Harbor](https://github.com/kauanmezavila/harbor)                 | Experimental system focused on code packaging and compatibility  |
 | [BCBS-NetHunter](https://github.com/kauanmezavila/BCBS-NetHunter) | Experimental mobile/Linux environment inspired by Kali NetHunter |
-| [chatpdc-web](https://github.com/kauanmezavila/chatpdc-web)       | AI agent platform with a web interface and backend               |
+| [Peloponeso](https://github.com/kauanmezavila/peloponeso)         | Free, Open-Source, usersharing-friendly libray                   |
 | [pypipeline](https://github.com/kauanmezavila/pypipeline)         | Local pipeline for file compression and transfer                 |
 | [my-first-vm](https://github.com/kauanmezavila/my-first-vm)       | Educational virtual machine experiment                           |
 | [IP-Tracker](https://github.com/kauanmezavila/IP-Tracker)         | Networking and IP-address experimentation                        |
