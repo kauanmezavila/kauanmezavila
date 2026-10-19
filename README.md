@@ -83,12 +83,12 @@ Some of the systems and experiments I've built or worked on:
 
 | Project                                                           | Description                                                      |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------- |
+| [tiny-agents](https://github.com/kauanmezavila/tiny-agents)       | A framework in Python for building agents and harnesses          |
 | [Harbor](https://github.com/kauanmezavila/harbor)                 | Experimental system focused on code packaging and compatibility  |
 | [BCBS-NetHunter](https://github.com/kauanmezavila/BCBS-NetHunter) | Experimental mobile/Linux environment inspired by Kali NetHunter |
 | [Peloponeso](https://github.com/kauanmezavila/peloponeso)         | Free, Open-Source, usersharing-friendly libray                   |
 | [pypipeline](https://github.com/kauanmezavila/pypipeline)         | Local pipeline for file compression and transfer                 |
 | [my-first-vm](https://github.com/kauanmezavila/my-first-vm)       | Educational virtual machine experiment                           |
-| [IP-Tracker](https://github.com/kauanmezavila/IP-Tracker)         | Networking and IP-address experimentation                        |
 
 > Most of my projects are experiments designed to answer a question, explore a system, or turn an idea into something executable.
 
