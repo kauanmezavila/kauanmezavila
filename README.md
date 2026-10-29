@@ -87,7 +87,7 @@ Some of the systems and experiments I've built or worked on:
 | [Harbor](https://github.com/kauanmezavila/harbor)                 | Experimental system focused on code packaging and compatibility  |
 | [BCBS-NetHunter](https://github.com/kauanmezavila/BCBS-NetHunter) | Experimental mobile/Linux environment inspired by Kali NetHunter |
 | [Peloponeso](https://github.com/kauanmezavila/peloponeso)         | Free, Open-Source, usersharing-friendly libray                   |
-| [pypipeline](https://github.com/kauanmezavila/pypipeline)         | Local pipeline for file compression and transfer                 |
+| [resenhudo](https://github.com/kauanmezavila/resenhudo)           | A simple trigger bot for Discord                                 |
 | [my-first-vm](https://github.com/kauanmezavila/my-first-vm)       | Educational virtual machine experiment                           |
 
 > Most of my projects are experiments designed to answer a question, explore a system, or turn an idea into something executable.
